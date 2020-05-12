@@ -29,7 +29,6 @@ const Post = props => {
     }
   }, [verComentarios])
     
-
   return (
     <> 
       <h2>{post.title}</h2>
